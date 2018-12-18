@@ -1,0 +1,8 @@
+{
+  "name": "aweb3r/magento1-locale-pack",
+  "description": "Magento 1 Language Pack.",
+  "type": "magento-module",
+  "require": {
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
