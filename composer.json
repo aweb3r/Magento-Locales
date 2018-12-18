@@ -1,5 +1,5 @@
 {
-  "name": "aweb3r/magento1-locale-pack",
+  "name": "aweb3r/magento-locales",
   "description": "Magento 1 Language Pack.",
   "type": "magento-module",
   "require": {
